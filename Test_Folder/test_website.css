@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'roboto';
+    font-size: medium;
+    
+}
+
+.nav{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 6px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+div a{
+    text-decoration: none;
+    height: 100%;
+}
+.art{
+    width: 300px;
+}
+
+a:link {
+    color: blue;
+    padding: 5px;
+
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color:brown
+    padding: 0px 3px;
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+}

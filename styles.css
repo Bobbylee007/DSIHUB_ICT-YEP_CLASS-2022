@@ -1,0 +1,41 @@
+body{
+  /*  background: rgb(255,192,62) url(image/door.jpg) 2px;*/
+  background-color:rgb(255,192,62);
+  background-image:url();
+}
+h1{
+    color:purple;
+    font-size: 100px;
+}
+p{
+    font-size: 50px;
+}
+
+.second{
+    color: lightblue;
+    font-size: 50px;
+}
+
+#the-last-h1{
+    color: lightblue;
+    font-size: 150px;
+}
+
+.second-h1{
+    color: rgba(255,0, 0,0.3);
+    font-size: 120px;
+}
+
+.third-h1{
+    text-decoration: underline;
+}
+
+.hero{background: url(image/Phone-icon.png);
+    padding: 50px;
+    border-width:3px;
+    border-style:groove;
+    border-color:red;
+}
+.content{
+    border: 2px solid red  ;
+}
