@@ -1,0 +1,13 @@
+input{
+    display: block;
+    width: 500px;
+    height: 20px;
+    margin: 10px ;
+}
+
+#box{
+
+    width: 150px;
+    height: 250px;
+    background-color: rgb(212,27,09);
+}
